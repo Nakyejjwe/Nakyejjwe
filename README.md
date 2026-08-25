@@ -47,9 +47,5 @@ Based in Kampala, Uganda, with 5+ years of experience in digital security, benef
 📧 christinenakyejjwe@outlook.com  
 📍 Kampala, Uganda
 
----
-
-*"Bridging technology and humanitarian impact through ethical, data-driven solutions."*
----
 
 *"Bridging technology and humanitarian impact through ethical, data-driven solutions."*
