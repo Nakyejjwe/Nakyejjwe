@@ -37,7 +37,7 @@ Based in Kampala, Uganda, with 5+ years of experience in digital security, benef
 ---
 
 ## Certifications
-- https://www.credly.com/badges/067d94f9-ae68-444a-8341-29d9e9c76942/public_url
+- [Python Essentials 1 (CISCO)(<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="067d94f9-ae68-444a-8341-29d9e9c76942" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)] (https://www.credly.com/badges/067d94f9-ae68-444a-8341-29d9e9c76942/public_url)
 - Digital and Cyber Security (CISCO)
 - Data Analytics (DataCamp)
 - Digital Marketing (Google Digital Skills for Africa)
