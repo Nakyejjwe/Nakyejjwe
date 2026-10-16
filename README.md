@@ -1,6 +1,6 @@
 # Hi, I'm Christine Nakyejjwe 👋
 
-**IT Professional | Humanitarian Data & Digital Security Specialist | Academic Assistant Researcher | MSc Data Science & Analytics Candidate**
+**IT Professional | Humanitarian Data & Digital Security Specialist | MSc Data Science & Analytics Candidate**
 
 Based in Kampala, Uganda, with 5+ years of experience in digital security, beneficiary data management, and IT systems for humanitarian organizations. Currently pursuing a Master of Science in Data Science and Analytics at Uganda Christian University.
 
