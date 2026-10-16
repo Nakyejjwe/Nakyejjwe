@@ -9,7 +9,6 @@ Based in Kampala, Uganda, with 5+ years of experience in digital security, benef
 ## What I Do
 - 🔒 **Digital Security & Data Protection** — Training HRDs and vulnerable communities on secure data practices
 - 📊 **Data Management** — Beneficiary database design, verification, and reporting for humanitarian programs
-- 📝 **Academic Assistant Researcher** — Supporting Master's students with report writing and research proposals
 - 🤖 **Data Science** — Learning Python, machine learning, and predictive analytics to bridge humanitarian impact with data-driven insights
 
 ---
